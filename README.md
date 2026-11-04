@@ -23,7 +23,7 @@ Keeping a regular feeding schedule is hard when you are away from home. This pro
 | Arduino-compatible board (`[Uno / ESP32 / etc.]`) | Main controller | 1 |
 | DC / servo / stepper motor (`[specify]`) | Dispensing mechanism | 1 |
 | Load cell + HX711 amplifier (`[confirm]`) | Measure food weight | 1 |
-| Ultrasonic sensor (`[HC-SR04, confirm]`) | Measure food level | 1 |
+| Ultrasonic sensor (`[HC-SR04, confirm]`) | Measure food level | 2 |
 | Buzzer / speaker module (`[confirm]`) | Feeding-time sound | 1 |
 | Power supply (`[voltage / current]`) | Power the system | 1 |
 | Jumper wires, breadboard / PCB | Connections | — |
