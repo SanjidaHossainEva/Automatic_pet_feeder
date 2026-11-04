@@ -41,7 +41,6 @@ Keeping a regular feeding schedule is hard when you are away from home. This pro
 | `sound_with_time.ino` | Feeding-time sound logic |
 | `FoodLevelNotify.ino` | Low-food level notification logic |
 
-> 💡 **Tip:** Arduino requires each sketch to live in a folder with the same name as the `.ino` file. Consider reorganizing into `/main`, `/tests/motor`, `/tests/weight`, etc., and renaming `NEWMAIN.ino` / `mainCODE.ino` so it is clear which one is current.
 
 
 ## How It Works
