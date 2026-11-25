@@ -61,5 +61,5 @@ Keeping a regular feeding schedule is hard when you are away from home. This pro
 
 ## Author
 
-**Shifat Mahmud**
-GitHub: [@ShifatMahmud0](https://github.com/ShifatMahmud0)
+**Sanjida Hossain Eva**
+GitHub: [SanjidaHossainEva](https://github.com/SanjidaHossainEva)
